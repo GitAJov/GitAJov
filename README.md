@@ -3,7 +3,7 @@
 # <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif" alt="😀" width="32" height="32"> </picture> Hello there! </H1>
 I'm a third-year Informatics major at UPH, currently part of Bangkit Academy 2024 Batch 2 in the Machine Learning Cohort! 
 
-## My Stats
+## Stats
 ![GitAJov's Stats](https://github-readme-stats.vercel.app/api?username=GitAJov&theme=default&show_icons=true&hide_border=false&count_private=true)
 ![GitAJov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitAJov&theme=default&show_icons=true&hide_border=false&layout=compact)
 
