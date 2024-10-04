@@ -1,11 +1,12 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=GitAJov)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovan-torio-8569b72a1/)
-# <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif" alt="😀" width="32" height="32"> </picture> Hello there! </H1>
+# <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif" alt="😀" width="32" height="32"> </picture> Hello there!
 I'm a third-year Informatics major at UPH, currently part of Bangkit Academy 2024 Batch 2 in the Machine Learning Cohort! 
 
 ## Stats
-![GitAJov's Stats](https://github-readme-stats.vercel.app/api?username=GitAJov&theme=default&show_icons=true&hide_border=false&count_private=true)
-![GitAJov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitAJov&theme=default&show_icons=true&hide_border=false&layout=compact)
+![GitAJov's Stats](https://github-readme-stats.vercel.app/api?username=GitAJov&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![GitAJov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GitAJov&theme=tokyonight&hide_border=false)
+![GitAJov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitAJov&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## Tech and Tools
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
