@@ -4,8 +4,8 @@
 I'm a third-year Informatics major at UPH, currently part of Bangkit Academy 2024 Batch 2 in the Machine Learning Cohort! 
 
 ## Stats
-![GitAJov's Stats](https://github-readme-stats.vercel.app/api?username=GitAJov&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![GitAJov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GitAJov&theme=tokyonight&hide_border=false)
+![GitAJov's Stats](https://github-readme-stats.vercel.app/api?username=GitAJov&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) <br>
+![GitAJov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GitAJov&theme=tokyonight&hide_border=false) <br>
 ![GitAJov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitAJov&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## Tech and Tools
