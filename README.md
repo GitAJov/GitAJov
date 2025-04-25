@@ -1,7 +1,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=GitAJov)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovan-torio-8569b72a1/)
 # <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif" alt="😀" width="32" height="32"> </picture> Hello there!
-I'm a third-year Informatics major at UPH, currently part of Bangkit Academy 2024 Batch 2 in the Machine Learning Cohort! 
+I'm a third-year Informatics major at UPH, Distinction Graduate of Bangkit Academy 2024 Batch 2, and doing my internship at CABCODE.id! 
 
 ## Stats
 ![GitAJov's Stats](https://github-readme-stats.vercel.app/api?username=GitAJov&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) <br>
